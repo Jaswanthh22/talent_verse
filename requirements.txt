@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic>=2
+python-multipart
+pypdf
+python-dotenv
+google-genai
+psycopg2-binary
